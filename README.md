@@ -1,1 +1,3 @@
-# Twwet-Sentiment-Analysis
+# Tweet-Sentiment-Analysis
+
+Sentiment analysis using tweets on different topics.
